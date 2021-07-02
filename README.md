@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/PhilipNzube/MySideHustleTask)
-- Live Site URL: (https://philwebdev.netlify.app)
+- Solution URL: (https://your-solution-url.com)
+- Live Site URL: (https://your-live-site-url.com)
 
 
 ### Built with
@@ -38,11 +38,10 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
-I learnt how to use css3 flexbox  and how to import font libraries with css
-
-To see how you can add code snippets, see below:
+I learnt how to use css3 flexbox, font icons  and how to import font libraries with css
 
 ```html
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
  <div id="social">
   <a href="" class="fa fa-facebook"></a>
   <a href="" class="fa fa-twitter"></a>
@@ -58,7 +57,7 @@ url('https://fonts.google.com/specimen/Raleway');
 
 ### Continued development
 
-i want to continue using css3 flexbox, font libraries and @media queries in my future projects
+i want to continue using css3 flexbox, fon icons,  font libraries and @media queries in my future projects
 
 
 ### Useful resources
