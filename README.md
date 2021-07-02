@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/PhilipNzube/MySideHustleTask)
-- Live Site URL: (https://philwebdev.com)
+- Live Site URL: (https://philwebdev.netlify.app)
 
 
 ### Built with
