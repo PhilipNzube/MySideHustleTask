@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/PhilipNzube/MySideHustleTask)
+- Live Site URL: (https://philwebdev.com)
 
 
 ### Built with
